@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Meat and Potatoes -- Push"
 date:   2018-09-23 22:47:00 -0700
 categories: jekyll update
