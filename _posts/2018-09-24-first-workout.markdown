@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Meat and Potatoes -- Push"
+date:   2018-09-23 22:47:00 -0700
+categories: jekyll update
+---
+The first workout of the site; here we go!
+
+As it should be, we will start with a chest/shoulder/tri workout:
+
+## Routine 
+
+1. Chest
+	- Flat Bench 3x10
+2. Shoulders
+	- Seated Dumbbell Press 3x10
+3. Chest
+	- Cable flies 3x12
+4. Shoulders
+	- Lateral Shoulder Dumbbell Raises 3x12
+5. Chest
+	- Pushups to failure x 2
+6. Triceps
+	- Cable rope pulldowns 3x12
+
+## Notes
+
+- Workout intensity should be relatively low as rep ranges are rather high.
+- Rest for about 2 minutes between sets.
+- Try to not hit failure until the last set of a given movement. 
+
