@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simple Gym makes the gym... simple
+title: About
 permalink: /about/
 ---
 
