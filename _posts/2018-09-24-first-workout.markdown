@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: single
 title:  "The Basics - Push 1"
+excerpt: "Basic Chest, Shoulder, Tricep Workout Part I"
 date:   2018-09-23 22:47:00 -0700
-categories: jekyll update
+categories: basics
+toc: true
+header:
+  overlay_color: "rgb(255,0,0)"
 ---
 The first workout of the site; here we go!
 
