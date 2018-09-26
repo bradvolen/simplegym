@@ -1,0 +1,34 @@
+---
+layout: single
+title:  "The Basics - Pull Week 1 Day 2"
+excerpt: "Basic Back and Bicep Workout"
+date:   2018-09-25 23:39:00 -0700
+tags: basics pull back bicep
+toc: true
+header:
+  overlay_color: "rgb(255,0,0)"
+---
+Welcome to day 2 of the cycle!
+We are going to be doing a back and bicep workout today.
+
+## Routine
+
+1. Back
+  - Bent over dumbbell rows 3x10
+2. Back
+  - Pull-ups 3x10
+3. Biceps
+  - Dumbbell curls 3x12
+4. Back
+  - Reverse Cable Flies 3x12
+5. Biceps
+  - EZ-Curl bar curls 3x12
+6. Biceps/Forearms
+  - EZ-Curl bar reverse curls 3x12
+
+## Notes
+
+- If you are unable to perform 5+ pull-ups, you can substitute with:
+  - Pull-up negatives
+  - Pull-downs
+- Try to keep rest around 2 minutes between sets. More time may be needed for the pull-ups.
