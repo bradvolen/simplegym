@@ -6,7 +6,7 @@ date:   2018-09-23 22:47:00 -0700
 tags: basics push chest shoulders
 toc: true
 header:
-  overlay_color: "rgb(255,0,0)"
+  image: "/assets/images/bench_hero.jpg"
 ---
 The first workout of the site; here we go!
 
