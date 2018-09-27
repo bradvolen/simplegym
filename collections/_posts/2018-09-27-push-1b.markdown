@@ -1,0 +1,32 @@
+---
+layout: single
+title:  "The Basics - Push Week 1 Day 4"
+excerpt: "Basic Chest, Shoulders, Triceps Workout"
+date:   2018-09-27 12:24:00 -0700
+tags: basics chest shoulders abs
+toc: true
+header:
+  overlay_color: "rgb(255,0,0)"
+---
+Push day number two!
+
+## Routine
+
+1. Shoulders
+  - Strict barbell press 3x10
+2. Chest
+  - Dips 3x10 (weighted if possible)
+3. Shoulders/Traps
+  - Dumbbell Shrugs 3x12
+4. Chest
+  - Incline Dumbbell Chest Press 3x10
+5. Shoulders
+  - Dumbbell Front Raises 3x12
+6. Chest/Triceps
+  - Narrow grip bench press
+
+## Notes
+
+- There is not an isolated tricep exercise as almost all of the exercises will heavily involve the tricep
+  - If you are wanting an isolated tricep workout, consider:
+    - reverse grip single arm pull-downs 3x12

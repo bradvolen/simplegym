@@ -3,7 +3,7 @@ layout: single
 title:  "The Basics - Push Week 1 Day 1"
 excerpt: "Basic Chest, Shoulder, and Tricep Workout"
 date:   2018-09-23 22:47:00 -0700
-tags: basics push chest shoulder
+tags: basics push chest shoulders
 toc: true
 header:
   overlay_color: "rgb(255,0,0)"
