@@ -1,0 +1,30 @@
+---
+layout: single
+title:  "The Basics - Legs Week 1 Day 6"
+excerpt: "Basic Leg and Abs Workout"
+date:   2018-09-29 09:32:00 -0700
+tags: basics legs abs
+toc: true
+header:
+  overlay_color: "rgb(255,0,0)"
+---
+
+## Routine
+
+1. Legs
+  - Deadlift 5x10
+2. Legs/Quad
+  - Legs Extensions 3x10
+3. Legs/Hamstring
+  - Leg Curls 3x10
+4. Abs
+  - Decline Sit Ups
+5. Calves
+  - Calf raises 3x12
+6. Abs
+  - Standing Oblique Crunches
+
+## Notes
+
+- If your gym has an hexagonal deadlift bar, try it out!
+- If you don't have access to a decline ab bench, substitute with handing leg raises
