@@ -2,7 +2,6 @@
 title: "The Classic Routine"
 permalink: /the_classic/
 layout: single
-author_profile: true
 header:
   overlay_color: "rgb(0,255,0)"
 ---
