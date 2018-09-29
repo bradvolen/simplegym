@@ -13,18 +13,14 @@ We are going to be doing a back and bicep workout today.
 
 ## Routine
 
-1. Back
-  - Pull-ups 3x10
-2. Back
-  - Bent over dumbell rows 3x10
-3. Biceps
-  - Dumbbell curls 3x12
-4. Back
-  - Reverse Cable Flies 3x12
-5. Biceps
-  - EZ-Curl bar curls 3x12
-6. Biceps/Forearms
-  - EZ-Curl bar reverse curls 3x12
+| Focus | Exercise | Sets | Reps |
+|:-|:-|:-|:-|
+|Back|Pull-ups|3|10|
+|Back|Barbell Rows|3|10|
+|Biceps|Dumbbell curls|3|12|
+|Back|Reverse Cable Flies|3|12|
+|Biceps|EZ-Curl bar curls|3|12|
+|Biceps/Forearms|EZ-Curl bar reverse curls|3|12|
 
 ## Notes
 
