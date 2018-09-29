@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "The Basics - Push Week 1 Day 4"
-excerpt: "Basic Chest, Shoulders, Triceps Workout"
+title:  "The Classic - Push Week 1 Day 4"
+excerpt: "Chest, Shoulders, Triceps Workout"
 date:   2018-09-27 12:24:00 -0700
-tags: basics chest shoulders abs
+tags: classic chest shoulders abs
 toc: true
 header:
   overlay_color: "rgb(255,0,0)"

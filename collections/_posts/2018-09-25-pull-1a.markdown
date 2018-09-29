@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "The Basics - Pull Week 1 Day 2"
-excerpt: "Basic Back and Bicep Workout"
+title:  "The Classic - Pull Week 1 Day 2"
+excerpt: "Back and Bicep Workout"
 date:   2018-09-25 23:39:00 -0700
-tags: basics pull back bicep
+tags: classic pull back bicep
 toc: true
 header:
   overlay_color: "rgb(255,0,0)"

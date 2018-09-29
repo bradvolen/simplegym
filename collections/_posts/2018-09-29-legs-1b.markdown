@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "The Basics - Legs Week 1 Day 6"
-excerpt: "Basic Leg and Abs Workout"
+title:  "The Classic - Legs Week 1 Day 6"
+excerpt: "Leg and Abs Workout"
 date:   2018-09-29 09:32:00 -0700
-tags: basics legs abs
+tags: classic legs abs
 toc: true
 header:
   overlay_color: "rgb(255,0,0)"
