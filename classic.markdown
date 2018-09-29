@@ -1,6 +1,6 @@
 ---
 title: "The Classic Routine"
-permalink: /the_classic
+permalink: /the_classic/
 layout: single
 author_profile: true
 header:

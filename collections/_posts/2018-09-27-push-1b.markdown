@@ -12,21 +12,11 @@ Push day number two!
 
 ## Routine
 
-1. Shoulders
-  - Strict barbell press 3x10
-2. Chest
-  - Dips 3x10 (weighted if possible)
-3. Shoulders/Traps
-  - Dumbbell Shrugs 3x12
-4. Chest
-  - Incline Dumbbell Chest Press 3x10
-5. Shoulders
-  - Dumbbell Front Raises 3x12
-6. Chest/Triceps
-  - Narrow grip bench press 3x10
-
-## Notes
-
-- There is not an isolated tricep exercise as almost all of the exercises will heavily involve the tricep
-  - If you are wanting an isolated tricep workout, consider:
-    - reverse grip single arm pull-downs 3x12 to finish with
+| Focus | Exercise | Sets | Reps |
+|:-|:-|:-|:-|
+|Shoulders|Barbell Press|3|10|
+|Chest|Dips|3|12|
+|Traps|Dumbbell Shurgs|3|12|
+|Chest|Incline Dumbbell Press|3|10|
+|Shoulders|Dumbbell Front Raises|3|12|
+|Triceps|Single Arm Pulldowns|3|12|

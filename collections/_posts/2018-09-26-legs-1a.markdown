@@ -13,18 +13,14 @@ We're going to be doing legs and abs today; because why not.
 
 ## Routine
 
-1. Legs
-  - Squats (or leg press) 5x10
-2. Abs
-  - Rope pulldown crunches 3x15
-3. Legs
-  - Lunges (step backwards!) 3x10
-4. Legs/Glutes/Lower Back (weighted if 12 is easy)
-  - Back Extensions 3x12
-5. Legs
-  - Calf raises 3x10
-6. Abs
-  - (1 minute plank, 30 sec plank both sides) x 2
+| Focus | Exercise | Sets | Reps |
+|:-|:-|:-|:-|
+|Legs|Back Squats|5|10|
+|Abs|Rope Pulldown Crunches|3|15|
+|Legs|Step Back Lunges|3|10|
+|Glutes|Back Extensions|3|12|
+|Calves|Calf Raises|3|12|
+|Abs|Plank + Side Plank|60+30+30 seconds|2|
 
 ## Notes
 

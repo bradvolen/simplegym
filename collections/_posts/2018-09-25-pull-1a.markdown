@@ -16,7 +16,7 @@ We are going to be doing a back and bicep workout today.
 | Focus | Exercise | Sets | Reps |
 |:-|:-|:-|:-|
 |Back|Pull-ups|3|10|
-|Back|Barbell Rows|3|10|
+|Back|Dumbbell Rows|3|10|
 |Biceps|Dumbbell curls|3|12|
 |Back|Reverse Cable Flies|3|12|
 |Biceps|EZ-Curl bar curls|3|12|

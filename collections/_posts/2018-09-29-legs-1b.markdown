@@ -11,18 +11,14 @@ header:
 
 ## Routine
 
-1. Legs
-  - Deadlift 5x10
-2. Legs/Quad
-  - Legs Extensions 3x10
-3. Legs/Hamstring
-  - Leg Curls 3x10
-4. Abs
-  - Decline Sit Ups
-5. Calves
-  - Calf raises 3x12
-6. Abs
-  - Standing Oblique Crunches
+| Focus | Exercise | Sets | Reps |
+|:-|:-|:-|:-|
+|Legs|Deadlift|5|10|
+|Quads|Leg Extensions|3|10|
+|Hamstrings|Leg Curls|3|10|
+|Abs|Decline Sit-ups|3|15|
+|Calves|Calf raises|3|12|
+|Abs|Standing Oblique Crunches|3|15|
 
 ## Notes
 
