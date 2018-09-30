@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "The Classic - Legs Week 1 Day 3"
+permalink: /the_classic/legs-1a/
 excerpt: "Leg and Abs Workout"
 date:   2018-09-26 23:39:00 -0700
 tags: classic legs abs

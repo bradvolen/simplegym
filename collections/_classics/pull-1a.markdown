@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "The Classic - Pull Week 1 Day 2"
+permalink: /the_classic/pull-1a/
 excerpt: "Back and Bicep Workout"
 date:   2018-09-25 23:39:00 -0700
 tags: classic pull back bicep

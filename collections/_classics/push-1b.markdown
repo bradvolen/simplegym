@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "The Classic - Push Week 1 Day 4"
+permalink: /the_classic/push-1b/
 excerpt: "Chest, Shoulders, Triceps Workout"
 date:   2018-09-27 12:24:00 -0700
 tags: classic chest shoulders abs

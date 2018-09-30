@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "The Classic - Push Week 1 Day 1"
+permalink: /the_classic/push-1a/
 excerpt: "Chest, Shoulder, and Tricep Workout"
 date:   2018-09-23 22:47:00 -0700
 tags: classic push chest shoulders
