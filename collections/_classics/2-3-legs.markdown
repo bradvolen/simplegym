@@ -3,7 +3,7 @@ layout: single
 title:  "The Classic - Legs Week 2 Day 3"
 excerpt: "Leg and Abs Workout"
 header:
-  image: "/assets/images/bench_hero.jpg"
+  image: "/assets/images/smith_hero.jpg"
 ---
 
 ## Routine
