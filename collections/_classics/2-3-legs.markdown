@@ -3,7 +3,7 @@ layout: single
 title:  "The Classic - Legs Week 2 Day 3"
 excerpt: "Leg and Abs Workout"
 header:
-  overlay_color: "rgb(255,0,0)"
+  image: "/assets/images/bench_hero.jpg"
 ---
 
 ## Routine
