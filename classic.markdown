@@ -3,7 +3,7 @@ title: "The Classic Routine"
 permalink: /the_classic/
 layout: single
 header:
-  overlay_color: "rgb(0,255,0)"
+  image: "/assets/images/dumbbells_hero.jpg"
 ---
 
 ## The Classic
