@@ -15,5 +15,5 @@ header:
 |Quads|Leg Extensions|3|8|
 |Hamstrings|Leg Curls|3|8|
 |Abs|Decline Sit-ups|3|15|
-|Calves|Calf raises|3|12|
+|Calves|Calf raises|3|8|
 |Abs|Standing Oblique Crunches|3|15|

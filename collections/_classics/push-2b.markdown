@@ -6,7 +6,7 @@ excerpt: "Chest, Shoulders, Triceps Workout"
 header:
   overlay_color: "rgb(255,0,0)"
 ---
-Push day number two!
+Once agin, we are taking the major lifts and reducing the rep range to 8. Up that weight!
 
 ## Routine
 
@@ -17,4 +17,9 @@ Push day number two!
 |Traps|Dumbbell Shurgs|3|12|
 |Chest|Incline Dumbbell Press|3|8|
 |Shoulders|Dumbbell Front Raises|3|12|
-|Triceps|Single Arm Pulldowns|3|12|
+|Triceps|Single Arm Pulldowns|3|8|
+
+## Notes
+
+- For these heavier single arm pulldowns, I'd recommend a neutral grip (similar to hammer curl grip).
+  - You can usually just grab the end of the cable to use a neutral grip.
