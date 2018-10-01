@@ -3,7 +3,7 @@ layout: single
 title:  "The Classic - Legs Week 1 Day 3"
 excerpt: "Leg and Abs Workout"
 header:
-  overlay_color: "rgb(255,0,0)"
+  image: /assets/images/smith_hero.jpg
 ---
 It's the first leg day!
 We're going to be doing legs and abs today; because why not.
