@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The Classic - Pull Week 1 Day 2"
+title:  "The Classic - Pull Week 2 Day 2"
 permalink: /the_classic/pull-2a/
 excerpt: "Back and Bicep Workout"
 header:

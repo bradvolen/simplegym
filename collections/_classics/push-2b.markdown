@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The Classic - Push Week 1 Day 4"
+title:  "The Classic - Push Week 2 Day 4"
 permalink: /the_classic/push-2b/
 excerpt: "Chest, Shoulders, Triceps Workout"
 header:
