@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "The Classic - Pull Week 1 Day 5"
-permalink: /the_classic/pull-1b/
 excerpt: "Back and Bicep Workout"
 header:
   overlay_color: "rgb(255,0,0)"

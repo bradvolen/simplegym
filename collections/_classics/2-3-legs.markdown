@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "The Classic - Legs Week 2 Day 3"
-permalink: /the_classic/legs-2a/
 excerpt: "Leg and Abs Workout"
 header:
   overlay_color: "rgb(255,0,0)"

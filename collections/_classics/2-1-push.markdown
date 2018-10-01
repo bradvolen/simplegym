@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "The Classic - Push Week 2 Day 1"
-permalink: /the_classic/push-2a/
 excerpt: "Chest, Shoulder, and Tricep Workout"
 header:
   image: "/assets/images/bench_hero.jpg"

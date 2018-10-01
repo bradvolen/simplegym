@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "The Classic - Push Week 1 Day 4"
-permalink: /the_classic/push-1b/
 excerpt: "Chest, Shoulders, Triceps Workout"
 header:
   overlay_color: "rgb(255,0,0)"
