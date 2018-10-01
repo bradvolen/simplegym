@@ -3,9 +3,6 @@ layout: single
 title:  "The Classic - Pull Week 1 Day 5"
 permalink: /the_classic/pull-1b/
 excerpt: "Back and Bicep Workout"
-date:   2018-09-28 10:48:00 -0700
-tags: classic pull back bicep
-toc: true
 header:
   overlay_color: "rgb(255,0,0)"
 ---
@@ -18,19 +15,14 @@ Back day number two!
 |Back|Chin-ups|3|10|
 |Back|Barbell Rows|3|10|
 |Biceps|Hammer curls|3|12|
-|Back|V-Grip Cable Rows|3|10|
+|Back|V-Grip Cable Rows|3|12|
 |Biceps|Reclined Seated Curls|3|12|
 |Back|Chin-up holds|2|to failure|
 
-1. Back
-  - Chin-ups 3x10
-2. Back
-  - Bent over barbell rows 3x10
-3. Biceps
-  - Hammer curls 3x12
-4. Back
-  - Pulley V-Grip Rows 3x10
-5. Biceps
-  - Incline Bench Seated Curls 3x12
-6. Back
-  - Chin-up holds to failure x 2
+## Notes
+
+- If you can perform the amount of chin-ups prescribed, try weighted chin-ups!
+- If you cannot perform more tha 5 chinups:
+  - Some gyms will have assisted chin-up machines
+  - Use a pulley machine and do pulldowns with a chin-up grip.
+- If your chin-up holds exceed a 45 seconds, consider performing them weighted.

@@ -3,9 +3,6 @@ layout: single
 title:  "The Classic - Legs Week 1 Day 3"
 permalink: /the_classic/legs-1a/
 excerpt: "Leg and Abs Workout"
-date:   2018-09-26 23:39:00 -0700
-tags: classic legs abs
-toc: true
 header:
   overlay_color: "rgb(255,0,0)"
 ---
@@ -25,9 +22,9 @@ We're going to be doing legs and abs today; because why not.
 
 ## Notes
 
-- When choosing squats or leg press
+- Feel free to do leg press instead of squats
   - Squats are probably better if you are hoping for translation to athletics
-  - Leg Press is good enough if you care mainly about building muscle and/or are concerned about injury
+  - Leg Press is good enough if you care mainly about building muscle and/or are concerned about injury from squatting
 - Lunges should be 10 for each leg
 - Calf raises can be done:
   - Barbell on back

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Classic - Push Week 1 Day 4"
-permalink: /the_classic/push-1b/
+permalink: /the_classic/push-2b/
 excerpt: "Chest, Shoulders, Triceps Workout"
 header:
   overlay_color: "rgb(255,0,0)"
@@ -12,16 +12,9 @@ Push day number two!
 
 | Focus | Exercise | Sets | Reps |
 |:-|:-|:-|:-|
-|Shoulders|Barbell Press|3|10|
+|Shoulders|Barbell Press|3|8|
 |Chest|Dips|3|12|
 |Traps|Dumbbell Shurgs|3|12|
-|Chest|Incline Dumbbell Press|3|10|
+|Chest|Incline Dumbbell Press|3|8|
 |Shoulders|Dumbbell Front Raises|3|12|
 |Triceps|Single Arm Pulldowns|3|12|
-
-## Notes
-
-- If you can perform the dips easily, try them weighted!
-- The single arm pulldowns shoulder either be done:
-  - with a neutral grip (like a hammer curl)
-  - with palm facing upward
