@@ -266,6 +266,8 @@ collections_dir: collections
 collections:
   classics:
     output: true
+  classics4:
+    output: true
 
 
 # HTML Compression

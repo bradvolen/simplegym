@@ -10,7 +10,7 @@ header:
 
 Welcome to the classic. This is a basic push, pull, legs routine that will cover the major compound lifts and accessory lifts across multiple rep ranges.
 
-The schedule is fairly dense, but each workout shouldn't last more than an hour.
+The schedule is fairly dense, but each workout shouldn't last more than an hour. If you would prefer 4 days a week, try [The 4 Day Classic](/simplegym/the_classic_4)
 
 ## Schedule
 
