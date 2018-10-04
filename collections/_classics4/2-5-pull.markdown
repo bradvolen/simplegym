@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The Classic - Pull Week 2 Day 5"
+title:  "The 4 Day Classic - Pull Week 2 Day 5"
 excerpt: "Back and Bicep Workout"
 header:
   overlay_color: "rgb(255,0,0)"

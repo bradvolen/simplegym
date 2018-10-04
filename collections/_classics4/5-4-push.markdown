@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The Classic - Push Week 5 Day 4"
+title:  "The 4 Day Classic - Push Week 5 Day 4"
 excerpt: "Chest, Shoulders, Triceps Workout"
 header:
   overlay_color: "rgb(255,0,0)"
