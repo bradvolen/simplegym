@@ -22,6 +22,9 @@ Push day number two!
 ## Notes
 
 - If you can perform the dips easily, try them weighted!
+- If you can't perform the dips:
+  - Some gyms will have an assisted dip machine. These are okay, but not great.
+  - I really like standing decline cable presses. Do those instead (maybe even if you can do dips)
 - The single arm pulldowns shoulder either be done:
   - with a neutral grip (like a hammer curl)
   - with palm facing upward
