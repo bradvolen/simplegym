@@ -15,8 +15,8 @@ Remember, if you can, try the chin-ups with some extra weight!
 |Back|Chin-ups|3|8|
 |Back|V-Grip Cable Rows|5|5|
 |Biceps|Hammer curls|3|8|
-|Biceps|Reclined Seated Curls|3|12|
 |Back|Straight Arm Lat Pulldown|3|12|
+|Biceps|Reclined Seated Curls|3|12|
 |Back|Chin-up holds|2|to failure|
 
 ## Notes
